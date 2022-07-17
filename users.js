@@ -22,5 +22,17 @@ module.exports = [
         name: 'mario',
         surname: 'dentino',
         age: 25
+    },
+    {
+        id: 5,
+        name: 'adrian',
+        surname: 'jaanties',
+        age: 23
+    },
+    {
+        id: 6,
+        name: 'tree',
+        surname: 'bob',
+        age: 25
     }
 ]
